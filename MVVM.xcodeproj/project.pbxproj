@@ -231,11 +231,11 @@
 					0244C78E1BFEE486003911FD = {
 						CreatedOnToolsVersion = 7.1;
 						DevelopmentTeam = 3NHXJL2834;
-						LastSwiftMigration = 1010;
+						LastSwiftMigration = 1130;
 					};
 					0244C7A21BFEE487003911FD = {
 						CreatedOnToolsVersion = 7.1;
-						LastSwiftMigration = 1010;
+						LastSwiftMigration = 1130;
 						TestTargetID = 0244C78E1BFEE486003911FD;
 					};
 				};
@@ -455,7 +455,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.ecerney.MVVM;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -469,7 +469,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.ecerney.MVVM;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -482,7 +482,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.ecerney.MVVMTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MVVM.app/MVVM";
 			};
 			name = Debug;
@@ -496,7 +496,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.ecerney.MVVMTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MVVM.app/MVVM";
 			};
 			name = Release;
